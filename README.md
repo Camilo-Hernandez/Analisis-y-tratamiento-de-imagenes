@@ -1,1 +1,1 @@
-# Analisis-y-tratamiento-de-imagenes
+# Análisis y tratamiento de imagenes
